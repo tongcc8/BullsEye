@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5C1B2484188517E30056F975 /* BullsEye.html in Resources */ = {isa = PBXBuildFile; fileRef = 5C1B2483188517E30056F975 /* BullsEye.html */; };
+		5CC4445318858542004AA86A /* README in Resources */ = {isa = PBXBuildFile; fileRef = 5CC4445218858542004AA86A /* README */; };
 		5CD1DD4B1883D92600FCCB64 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5CD1DD4A1883D92600FCCB64 /* Foundation.framework */; };
 		5CD1DD4D1883D92600FCCB64 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5CD1DD4C1883D92600FCCB64 /* CoreGraphics.framework */; };
 		5CD1DD4F1883D92600FCCB64 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5CD1DD4E1883D92600FCCB64 /* UIKit.framework */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		5C1B2483188517E30056F975 /* BullsEye.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = BullsEye.html; sourceTree = "<group>"; };
+		5CC4445218858542004AA86A /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = SOURCE_ROOT; };
 		5CD1DD471883D92600FCCB64 /* BullsEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BullsEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CD1DD4A1883D92600FCCB64 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		5CD1DD4C1883D92600FCCB64 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -117,6 +119,7 @@
 		5CD1DD501883D92600FCCB64 /* BullsEye */ = {
 			isa = PBXGroup;
 			children = (
+				5CC4445218858542004AA86A /* README */,
 				5C1B2483188517E30056F975 /* BullsEye.html */,
 				5CE2C733188423A900E87A00 /* AboutViewController.h */,
 				5CE2C734188423A900E87A00 /* AboutViewController.m */,
@@ -237,6 +240,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CC4445318858542004AA86A /* README in Resources */,
 				5CD1DD631883D92600FCCB64 /* Images.xcassets in Resources */,
 				5C1B2484188517E30056F975 /* BullsEye.html in Resources */,
 				5CD1DD551883D92600FCCB64 /* InfoPlist.strings in Resources */,
